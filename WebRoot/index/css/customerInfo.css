@@ -1,0 +1,8 @@
+.m-ctInfo{ box-sizing: border-box; margin-top: 40px; padding-left: 40px;  border: 1px solid #d8d8d8; border-radius: 10px; background: #fff;}
+.m-ctInfo h2{ border-bottom: 1px solid #d8d8d8; font-size: 18px; color: #626262; line-height: 60px; }
+.m-ctInfo li{padding: 15px 0;}
+.m-ctInfo span{float: left;}
+.m-ctInfo .wid{width: 60px; margin-right: 20px;}
+.m-ctInfo .rst, .m-ctInfo .iupd{display: none;}
+.m-ctInfo .ann{float: left; margin-right: 20px; margin-bottom: 20px; padding: 5px 10px; border: 1px solid #41b92f; border-radius: 8px; background: #4BC339; color: #fff; cursor: pointer;}
+.m-ctInfo 

@@ -1,0 +1,9 @@
+.m-pdList.m-pdList1{ border:1px solid #d8d8d8; border-bottom: none; border-radius: 10px; background: #fff;}
+.m-pdList.m-pdList1 .it{float: left; width: 312px; border-right: 1px solid #d8d8d8; border-bottom: 1px solid #d8d8d8; text-align: center;}
+.m-pdList.m-pdList1 .it:nth-of-type(4n){border-right: none;}
+.m-pdList.m-pdList1, .m-pdList.m-pdList1 .it{box-sizing: border-box;}
+
+.m-paging{border:1px solid #d8d8d8; border-radius: 10px; background: #fff; margin-top: 20px;}
+.m-paging li{float: left; margin: 14px 0; padding: 0 20px; font-size: 16px; line-height: 1.5;}
+.m-paging .arrow{border-right: 1px solid #ededed; cursor: pointer; }
+.m-paging .arrow a:hover{ color: #e5e5e5;}

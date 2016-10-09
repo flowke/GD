@@ -1,0 +1,44 @@
+body{background: #fff;}
+.m-nav{position: absolute; z-index: 1; top: 46px; left: 0; right: 0; padding: 0; background: none;}
+.m-nav ul{ float: right; height: 28px; margin-right: 95px; padding-right: 20px; border-radius: 6px; line-height: 28px; background: rgba(0,0,0,.3);}
+.m-nav li{float: left; margin-left: 20px; }
+.m-nav a{color: #d4d4d4; opacity: 1;}
+.m-nav .hover{ color: #fff; }
+.m-nav a:hover{ color: #fff; }
+.m-nav .serh{margin-left: 125px;}
+.m-nav .serh input{background: rgba(255,255,255,.7);}
+
+.g-banner{position: relative; }
+.m-picScroll .picWrap{max-height: 560px; overflow: hidden; text-align: center;}
+.m-picScroll img{width: 100%; height: auto;}
+
+.m-pdTit .lmd{float: left;}
+.m-pdTit .rmd{float: right; width: 420px; margin-right: 20px;}
+.m-pdTit h2{line-height: 30px; text-indent: 1em;}
+.m-pdTit p{padding-left: 12px; border-left: 3px solid #6A9C1A;}
+
+.m-bfInfo div{background: red; float: left;}
+.m-bfInfo .lb1{ margin-right: 20px;}
+.m-bfInfo .bk{width: 615px; height: 250px; }
+.m-bfInfo .bb3{height: 280px ; background: blue; width: 100%; margin-top: 20px; }
+.m-bfInfo   img{width: 100%; height: auto;}
+
+/* 
+亮色字#FEFFFE
+fw1的#B7C2C8
+fw2的#5E6B72
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+

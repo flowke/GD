@@ -1,0 +1,25 @@
+.m-cart{ box-sizing: border-box; margin-top: 40px;  border: 1px solid #d8d8d8; border-radius: 10px; background: #fff;}
+.m-cart h2{ border-bottom: 1px solid #d8d8d8; font-size: 18px; color: #626262; line-height: 60px; }
+.m-cart .tit{font-size: 12px; line-height: 38px; color: #666; background: #E6E7E8;}
+.m-cart .tit li{line-height: 38px;}
+.m-cart ul{ border-bottom: 1px solid #d8d8d8;}
+.m-cart h2, .m-cart ul, .m-cart .total{padding: 0 30px 0 20px;}
+.m-cart li{float: left; line-height: 110px;}
+.m-cart ul li:first-child{width: 500px;}
+.m-cart ul li:nth-child(2){width: 180px;}
+.m-cart ul li:nth-child(3){width: 180px;}
+.m-cart ul li:nth-child(4){width: 180px;}
+.m-cart ul li:nth-child(5){}
+.m-cart .picWrap{ float: left; width: 80px; height: 80px; }
+.m-cart img{width: 100%; height: auto; }
+.m-cart h3{ float: left; margin-left: 40px;}
+.m-cart .item li:last-child{color: #666;}
+.m-cart .asBtn .bbt{float: left; height: 20px; margin-top: 44px; line-height: 20px; margin-right: 10px; border: 1px solid #d8d8d8; border-radius: 4px; text-align: center;}
+.m-cart .arr{ width: 20px; background: #eee; cursor: pointer; }
+.m-cart .count{width: 36px;}
+.m-cart .total{ padding-top: 20px; padding-bottom: 20px;}
+.m-cart .total span{float: right; font-size: 18px; line-height: 40px; color: #555;}
+.m-cart .total a{float: right; margin-left: 20px; padding: 10px 20px; border: 1px solid #41b92f; border-radius: 8px; font-size: 18px; background: #4BC339; color: #fff}
+.m-cart i{font-family: Helvetica;}
+
+
